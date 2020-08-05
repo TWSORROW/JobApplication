@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/fayiliu/eclipse1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3621770238.index
+3012131208.index
+2077767538.index
+512708500.index
+2945760174.index
+3866009095.index
